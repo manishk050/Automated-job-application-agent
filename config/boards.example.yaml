@@ -1,0 +1,21 @@
+# Example board list shape only. Fake boards, no real boards, no credentials.
+# Copy this file to boards.yaml and replace the examples with your own
+# board list. Never put passwords, tokens, or API keys in this file.
+boards:
+  - name: Example Board A
+    provider: lever
+    token: example-board-a
+    url: https://example-boards.test/example-board-a
+  - name: Example Board B
+    provider: greenhouse
+    token: example-board-b
+    url: https://example-boards.test/example-board-b
+  - name: Example Board C
+    provider: company-site
+    token: example-board-c
+    url: https://example-boards.test/example-board-c
+settings:
+  freshness_days: 30
+  scan_interval_hours: 1
+  min_experience_years: 0
+  max_experience_start: 2

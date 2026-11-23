@@ -1,0 +1,12 @@
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+token.json
+applied.json
+reviewed.json
+*.pdf
+__pycache__/
+*.pyc
+.DS_Store

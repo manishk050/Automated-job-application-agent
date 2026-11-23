@@ -1,0 +1,5 @@
+# JobSweep demo requirements. Standard library does most of the work.
+# requests and pyyaml are listed for the real board clients, the demo
+# itself makes no network call.
+requests>=2.31.0
+pyyaml>=6.0

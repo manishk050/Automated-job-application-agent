@@ -1,0 +1,18 @@
+{
+  "company": "Example Analytics Pvt Ltd",
+  "description": "Fake demo posting only. Example company, example role, no real job.",
+  "experience_range": "0-2 years",
+  "location": "Bangalore, India",
+  "max_years": 2,
+  "min_years": 0,
+  "posted_date": "2026-11-21",
+  "posting_id": "demo-987654",
+  "posting_url": "https://example-boards.test/jobs/demo-987654",
+  "skills": [
+    "SQL",
+    "Python",
+    "Excel",
+    "Power BI"
+  ],
+  "title": "Data Analyst"
+}
